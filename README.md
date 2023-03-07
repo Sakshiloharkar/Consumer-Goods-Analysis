@@ -1,10 +1,10 @@
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to Challenge - https://codebasics.io/event/codebasics-resume-project-challenge
+- <a href = "https://codebasics.io/event/codebasics-resume-project-challenge">Link to Challenge </a>
 
-Link to Solution file - https://github.com/Sakshiloharkar/Consumer-Goods-Analysis/blob/main/Consumer%20Goods%20Analysis.sql
+- <a href = "https://github.com/Sakshiloharkar/Consumer-Goods-Analysis/blob/main/Consumer%20Goods%20Analysis.sql">Link to Solution file</a>
 
-Link to Presentation - https://github.com/Sakshiloharkar/Consumer-Goods-Analysis/blob/main/Consumer%20Good%20Analysis.pptx
+- <a href = "https://github.com/Sakshiloharkar/Consumer-Goods-Analysis/blob/main/Consumer%20Good%20Analysis.pptx">Link to Presentation</a>
 
 # Problem Statement-
 
@@ -32,7 +32,7 @@ Imagine yourself as the applicant for this role and perform the following task
 
 Download & install MySQL from mysql.com/downloads/
 
-You can get sql file from https://codebasics.io/event/codebasics-resume-project-challenge
+You can get sql file from <a href = "https://codebasics.io/event/codebasics-resume-project-challenge">Link</a>
 
 Skills Learned- 
 
