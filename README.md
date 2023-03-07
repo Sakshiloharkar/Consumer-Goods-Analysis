@@ -34,8 +34,8 @@ Download & install MySQL from mysql.com/downloads/
 
 You can get sql file from <a href = "https://codebasics.io/event/codebasics-resume-project-challenge">Link</a>
 
-Skills Learned- 
+# Skills Learned- 
 
-1.Advance SQL concepts like subqueries, windows functions, if else, CTE's.
+1. Advance SQL concepts like subqueries, windows functions, if else, CTE's.
 
-2.How to write complex queries in most easiest way to understand.
+2. How to write complex queries in most easiest way to understand.
