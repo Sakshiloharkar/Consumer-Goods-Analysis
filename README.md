@@ -2,9 +2,6 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 - <a href = "https://codebasics.io/event/codebasics-resume-project-challenge">Link to Challenge </a>
 
-- <a href = "https://github.com/Sakshiloharkar/Consumer-Goods-Analysis/blob/main/Consumer%20Goods%20Analysis.sql">Link to Solution file</a>
-
-- <a href = "https://github.com/Sakshiloharkar/Consumer-Goods-Analysis/blob/main/Consumer%20Good%20Analysis.pptx">Link to Presentation</a>
 
 # Problem Statement-
 
